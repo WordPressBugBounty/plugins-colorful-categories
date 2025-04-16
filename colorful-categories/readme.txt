@@ -2,8 +2,8 @@
 Contributors: loyaltymanufaktur
 Tags: categories, widget, coloured, colourful categories
 Requires at least: 4.9
-Tested up to: 6.6
-Stable tag: 2.0.20
+Tested up to: 6.8
+Stable tag: 2.0.21
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,9 @@ Use Wordpress default function: get_term_meta($term_id, 'cc_color', true);
 3. Page to manage categories with new column 'Color'.
 
 == Changelog ==
+
+= 2.0.21 =
+* Tested up to Wordpress 6.8.
 
 = 2.0.20 =
 * Tested up to Wordpress 6.6.

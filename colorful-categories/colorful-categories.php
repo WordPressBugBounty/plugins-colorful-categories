@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Colorful Categories
  * Description: New Categories widget in the awesome style! Bring colours to your categories widget - make every category in own colour.
- * Version: 2.0.20
+ * Version: 2.0.21
  * Author: Gesundheit Bewegt GmbH
  * Author URI: http://gesundheit-bewegt.com
  * Text Domain: colorful-categories
@@ -15,7 +15,7 @@
  */
 class ColorfulCategories
 {
-    public $version = '2.0.20';
+    public $version = '2.0.21';
 
     /**
      * Plugin constructor.
