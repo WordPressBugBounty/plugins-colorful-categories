@@ -1,11 +1,13 @@
 === Colorful Categories ===
-Contributors: loyaltymanufaktur
+Contributors: loyaltymanufaktur, madeinua
 Tags: categories, widget, coloured, colourful categories
 Requires at least: 4.9
 Tested up to: 6.8
 Stable tag: 2.0.21
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+New Categories widget in the awesome style! Bring colours to your categories widget - make every category in its colour.
 
 == Description ==
 
